@@ -10,6 +10,6 @@ Refresh Control: https://facebook.github.io/react-native/docs/refreshcontrol.htm
 https://youtu.be/rx2ZAmfe18s
 
 ## How it looks on iPhone
-![image](https://github.com/oliversisson/RN-Refresh/blob/master/ios.png)
+<img src="https://github.com/oliversisson/RN-Refresh/blob/master/ios.png" width="450">
 <br>
 https://youtu.be/zaHAwE9AkCY
